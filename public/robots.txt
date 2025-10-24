@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /api/
+Disallow: /dashboard/
+
+# Host
+Host: https://emiryilmaz.dev
+
+# Sitemaps
+Sitemap: https://emiryilmaz.dev/sitemap.xml
